@@ -7,7 +7,7 @@
 
 
 
-##  Qucik start  
+##  Quick start  
 
 ```bash
 git clone https://github.com/as183789043/Vagrant-k8s_node_setup.git
