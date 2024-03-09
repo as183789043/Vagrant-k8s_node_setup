@@ -1,3 +1,5 @@
+![image](https://github.com/as183789043/Vagrant-k8s_node_setup/assets/56618553/df70831a-1897-4b37-b144-d4e3eb29939c)
+
 ## Prepare service before start
 - [Vagrant](https://developer.hashicorp.com/vagrant/downloads)
 - [Virtualbox](https://www.virtualbox.org/)
