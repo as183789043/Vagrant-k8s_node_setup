@@ -26,12 +26,12 @@ vagrantfile up
 ## SSH to k8s hostname (default password => vagrant)
 ![image](https://github.com/as183789043/Vagrant-k8s_node_setup/assets/56618553/81eb9e02-67bc-40b4-84c7-816ff067fc19)
 
-## If you want stop vm
+## If you want stop VM
 ```
 vagrant halt  (or sudo shutdown )
 ```
 
-## Remove then
+## Delete all VM
 ```
 vagrant destroy
 ```
